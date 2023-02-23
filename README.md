@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 👨🏻‍💻  About Me<br>
-
+🔭  I'm currently working as a software engineer at Eutech Cybernetics Pvt Ltd.<br>
 💡  I like to explore new technologies and develop software solutions and quick hacks.<br>
-🎓  I'm currently studying Information Technology at the Sri Lanka Institute of Information Technology(SLIIT).<br>
+🎓  I'm graduated from Information Technology at the Sri Lanka Institute of Information Technology(SLIIT).<br>
 🌱  I'm on track for learning more about Machine Learning, Systems Design, and Cloud Architecture.<br>
 ✍️  In my free time, I pursue Photography ,Travelling, Painting and do penetration testings as hobbies/side hustles.<br>
 💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>
